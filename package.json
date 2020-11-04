@@ -1,6 +1,6 @@
 {
-  "name": "standard-version",
-  "version": "1.0.1",
+  "name": "standard2version",
+  "version": "1.0.2",
   "description": "版本控制",
   "main": "lib/index.js",
   "scripts": {
