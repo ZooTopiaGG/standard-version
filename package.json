@@ -1,6 +1,6 @@
 {
   "name": "standard2version",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "版本控制",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "inquirer": "^7.3.3",
     "semver": "^7.3.2",
     "standard-version": "^9.0.0",
-    "standard2version": "^1.0.2"
+    "standard2version": "^1.0.3"
   },
   "directories": {
     "lib": "lib"
