@@ -1,0 +1,21 @@
+{
+  "name": "standard-version",
+  "version": "1.0.0",
+  "description": "版本控制",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "node ./lib/release.js"
+  },
+  "keywords": [
+    "version",
+    "auto"
+  ],
+  "author": "dengpeng",
+  "license": "ISC",
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "inquirer": "^7.3.3",
+    "semver": "^7.3.2"
+  }
+}
