@@ -1,6 +1,6 @@
 {
   "name": "standard-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "版本控制",
   "main": "lib/index.js",
   "scripts": {
@@ -16,6 +16,18 @@
   "devDependencies": {
     "child_process": "^1.0.2",
     "inquirer": "^7.3.3",
-    "semver": "^7.3.2"
-  }
+    "semver": "^7.3.2",
+    "standard-version": "^9.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZooTopiaGG/standard-version.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZooTopiaGG/standard-version/issues"
+  },
+  "homepage": "https://github.com/ZooTopiaGG/standard-version#readme"
 }
